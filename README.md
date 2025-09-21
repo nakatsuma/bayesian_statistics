@@ -141,23 +141,23 @@ Then click the icon named `JupyterLab`.
 
 ## Jupyter Notebooks and related files in `notebook`
 
-| file name                  | description                             |
-|:---------------------------|:----------------------------------------|
-| ar1_process.ipynb          | convergence of the AR(1) process        |
-| bayes_bernoulli.ipynb      | Bayesian inference on Bernoulli dist.   |
-| bayes_exponential.ipynb    | Bayesian inference on exponential dist. |
-| bayes_normal.ipynb         | Bayesian inference on normal dist.      |
-| bayes_poisson.ipynb        | Bayesian inference on Poisson dist.     |
-| HMDA.csv                   | Home Mortgage Disclosure Act data       |
-| housing_price.ipynb        | hedonic price model of houses           |
-| Housing.csv                | sales prices of houses                  |
-| mortgage_denial.ipynb      | logit / probit model of mortgage denial |
-| prussian.csv               | Prussian army horse kick data           |
-| simple_regression.ipynb    | simple regression model                 |
-| speedlimit.ipynb           | effect of speed limits on accidents     |
-| StrikeDur.csv              | strikes duration data                   |
-| strikes_duration.ipynb.    | exponential model of strikes duration   |
-| Traffic.csv                | speed limit and traffic accident data   |
-| USStocksSW.csv             | monthly US stock returns data           |
+| file name                                                    | description                             |
+|:-------------------------------------------------------------|:----------------------------------------|
+| [ar1_process.ipynb](/notebook/ar1_convergence.ipynb)         | convergence of the AR(1) process        |
+| [bayes_bernoulli.ipynb](/notebook/bayes_bernoulli.ipynb)     | Bayesian inference on Bernoulli dist.   |
+| [bayes_exponential.ipynb](/notebook/bayes_exponential.ipynb) | Bayesian inference on exponential dist. |
+| [bayes_normal.ipynb](/notebook/bayes_normal.ipynb)           | Bayesian inference on normal dist.      |
+| [bayes_poisson.ipynb](/notebook/bayes_poisson.ipynb)         | Bayesian inference on Poisson dist.     |
+| [HMDA.csv](/notebook/HMDA.csv)                               | Home Mortgage Disclosure Act data       |
+| [Housing.csv](/notebook/Housing.csv)                         | sales prices of houses                  |
+| [housing_price.ipynb](/notebook/housing_price.ipynb)         | hedonic price model of houses           |
+| [mortgage_denial.ipynb](/notebook/mortgage_denial.ipynb)     | logit / probit model of mortgage denial |
+| [prussian.csv](/notebook/prussian.csv)                       | Prussian army horse kick data           |
+| [simple_regression.ipynb](/notebook/simple_regression.ipynb) | simple regression model                 |
+| [speedlimit.ipynb](/notebook/speedlimit.ipynb)               | effect of speed limits on accidents     |
+| [StrikeDur.csv](/notebook/StrikeDur.csv)                     | strikes duration data                   |
+| [strikes_duration.ipynb](/notebook/strikes_duration.ipynb)   | exponential model of strikes duration   |
+| [Traffic.csv](/notebook/Traffic.csv)                         | speed limit and traffic accident data   |
+| [USStocksSW.csv](/notebook/USStocksSW.csv)                   | monthly US stock returns data           |
 
 ---
