@@ -15,7 +15,7 @@ Teruo Nakatsuma (Faculty of Economics, Keio University, Japan)
 - [How to start JupyterLab](#how-to-start-jupyterlab)
   - [Method 1: From the command line](#method-1-from-the-command-line)
   - [Method 2: From Anaconda Navigator](#method-2-from-anaconda-navigator)
-- [Jupyter Notebooks and related files in `notebook-a`](#jupyter-notebooks-and-related-files-in-notebook-a)
+- [Jupyter Notebooks and related files in `notebook`](#jupyter-notebooks-and-related-files-in-notebook)
 
 ---
 
@@ -151,6 +151,8 @@ Then click the icon named `JupyterLab`.
 | [HMDA.csv](/notebook/HMDA.csv)                               | Home Mortgage Disclosure Act data       |
 | [Housing.csv](/notebook/Housing.csv)                         | sales prices of houses                  |
 | [housing_price.ipynb](/notebook/housing_price.ipynb)         | hedonic price model of houses           |
+| [markovchain.ipynb](/notebook/markovchain.ipynb)             | properties of Markov chains             |
+| [montecarlo.ipynb](/notebook/montecarlo.ipynb)               | Monte Carlo method                      |
 | [mortgage_denial.ipynb](/notebook/mortgage_denial.ipynb)     | logit / probit model of mortgage denial |
 | [prussian.csv](/notebook/prussian.csv)                       | Prussian army horse kick data           |
 | [simple_regression.ipynb](/notebook/simple_regression.ipynb) | simple regression model                 |
