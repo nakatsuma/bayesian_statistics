@@ -141,25 +141,33 @@ Then click the icon named `JupyterLab`.
 
 ## Jupyter Notebooks and related files in `notebook`
 
-| file name                                                    | description                             |
-|:-------------------------------------------------------------|:----------------------------------------|
-| [ar1_process.ipynb](/notebook/ar1_convergence.ipynb)         | convergence of the AR(1) process        |
-| [bayes_bernoulli.ipynb](/notebook/bayes_bernoulli.ipynb)     | Bayesian inference on Bernoulli dist.   |
-| [bayes_exponential.ipynb](/notebook/bayes_exponential.ipynb) | Bayesian inference on exponential dist. |
-| [bayes_normal.ipynb](/notebook/bayes_normal.ipynb)           | Bayesian inference on normal dist.      |
-| [bayes_poisson.ipynb](/notebook/bayes_poisson.ipynb)         | Bayesian inference on Poisson dist.     |
-| [HMDA.csv](/notebook/HMDA.csv)                               | Home Mortgage Disclosure Act data       |
-| [Housing.csv](/notebook/Housing.csv)                         | sales prices of houses                  |
-| [housing_price.ipynb](/notebook/housing_price.ipynb)         | hedonic price model of houses           |
-| [markovchain.ipynb](/notebook/markovchain.ipynb)             | properties of Markov chains             |
-| [montecarlo.ipynb](/notebook/montecarlo.ipynb)               | Monte Carlo method                      |
-| [mortgage_denial.ipynb](/notebook/mortgage_denial.ipynb)     | logit / probit model of mortgage denial |
-| [prussian.csv](/notebook/prussian.csv)                       | Prussian army horse kick data           |
-| [simple_regression.ipynb](/notebook/simple_regression.ipynb) | simple regression model                 |
-| [speedlimit.ipynb](/notebook/speedlimit.ipynb)               | effect of speed limits on accidents     |
-| [StrikeDur.csv](/notebook/StrikeDur.csv)                     | strikes duration data                   |
-| [strikes_duration.ipynb](/notebook/strikes_duration.ipynb)   | exponential model of strikes duration   |
-| [Traffic.csv](/notebook/Traffic.csv)                         | speed limit and traffic accident data   |
-| [USStocksSW.csv](/notebook/USStocksSW.csv)                   | monthly US stock returns data           |
+| file name                                                                    | description                               |
+|:-----------------------------------------------------------------------------|:------------------------------------------|
+| [ar1_process.ipynb](/notebook/ar1_convergence.ipynb)                         | convergence of the AR(1) process          |
+| [bayes_bernoulli.ipynb](/notebook/bayes_bernoulli.ipynb)                     | Bayesian inference on Bernoulli dist.     |
+| [bayes_exponential.ipynb](/notebook/bayes_exponential.ipynb)                 | Bayesian inference on exponential dist.   |
+| [bayes_normal.ipynb](/notebook/bayes_normal.ipynb)                           | Bayesian inference on normal dist.        |
+| [bayes_poisson.ipynb](/notebook/bayes_poisson.ipynb)                         | Bayesian inference on Poisson dist.       |
+| [gibbs_logit.ipynb](/notebook/gibbs_logit.ipynb)                             | Gibbs sampling for logit model            |
+| [gibbs_normal.ipynb](/notebook/gibbs_normal.ipynb)                           | Gibbs sampling for normal dist.           |
+| [gibbs_probit.ipynb](/notebook/gibbs_probit.ipynb)                           | Gibbs sampling for probit model           |
+| [gibbs_quantile_regression.ipynb](/notebook/gibbs_quantile_regression.ipynb) | Gibbs sampling for quantile regression    |
+| [gibbs_regression.ipynb](/notebook/gibbs_regression.ipynb)                   | Gibbs sampling for regression model       |
+| [gibbs_shrinkage.ipynb](/notebook/gibbs_shrinkage.ipynb)                     | Gibbs sampling for shrinkage regression   |
+| [gibbs_truncated_normal.ipynb](/notebook/gibbs_truncated_normal.ipynb)       | Gibbs sampling for truncated normal dist. |
+| [HMDA.csv](/notebook/HMDA.csv)                                               | Home Mortgage Disclosure Act data         |
+| [Housing.csv](/notebook/Housing.csv)                                         | sales prices of houses                    |
+| [housing_price.ipynb](/notebook/housing_price.ipynb)                         | hedonic price model of houses             |
+| [Hitter.csv](/notebook/Hitter.csv)                                           | baseball hitters data                     |
+| [markovchain.ipynb](/notebook/markovchain.ipynb)                             | properties of Markov chains               |
+| [montecarlo.ipynb](/notebook/montecarlo.ipynb)                               | Monte Carlo method                        |
+| [mortgage_denial.ipynb](/notebook/mortgage_denial.ipynb)                     | logit / probit model of mortgage denial   |
+| [prussian.csv](/notebook/prussian.csv)                                       | Prussian army horse kick data             |
+| [simple_regression.ipynb](/notebook/simple_regression.ipynb)                 | simple regression model                   |
+| [speedlimit.ipynb](/notebook/speedlimit.ipynb)                               | effect of speed limits on accidents       |
+| [StrikeDur.csv](/notebook/StrikeDur.csv)                                     | strikes duration data                     |
+| [strikes_duration.ipynb](/notebook/strikes_duration.ipynb)                   | exponential model of strikes duration     |
+| [Traffic.csv](/notebook/Traffic.csv)                                         | speed limit and traffic accident data     |
+| [USStocksSW.csv](/notebook/USStocksSW.csv)                                   | monthly US stock returns data             |
 
 ---
