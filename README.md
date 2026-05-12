@@ -143,7 +143,7 @@ Then click the icon named `JupyterLab`.
 
 | file name                                                                    | description                               |
 |:-----------------------------------------------------------------------------|:------------------------------------------|
-| [ar1_process.ipynb](/notebook/ar1_convergence.ipynb)                         | convergence of the AR(1) process          |
+| [ar1_convergence.ipynb](/notebook/ar1_convergence.ipynb)                     | convergence of the AR(1) process          |
 | [bayes_bernoulli.ipynb](/notebook/bayes_bernoulli.ipynb)                     | Bayesian inference on Bernoulli dist.     |
 | [bayes_exponential.ipynb](/notebook/bayes_exponential.ipynb)                 | Bayesian inference on exponential dist.   |
 | [bayes_normal.ipynb](/notebook/bayes_normal.ipynb)                           | Bayesian inference on normal dist.        |
