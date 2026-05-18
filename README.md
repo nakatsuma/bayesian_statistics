@@ -27,7 +27,7 @@ I recommend that you set up the version of PyMC is 5.28.5 (the latest version of
 
 ```IPython
 conda activate bayes
-conda install pymc=5.28.5
+conda install pymc==5.28.5
 conda deactivate
 ```
 
