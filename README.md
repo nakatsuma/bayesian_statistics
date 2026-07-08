@@ -168,6 +168,7 @@ Then click the icon named `JupyterLab`.
 | [gibbs_quantile_regression.ipynb](/notebook/gibbs_quantile_regression.ipynb) | Gibbs sampling for quantile regression    |
 | [gibbs_regression.ipynb](/notebook/gibbs_regression.ipynb)                   | Gibbs sampling for regression model       |
 | [gibbs_shrinkage.ipynb](/notebook/gibbs_shrinkage.ipynb)                     | Gibbs sampling for shrinkage regression   |
+| [gibbs_sur.ipynb](/notebook/gibbs_sur.ipynb)                                 | Gibbs sampling for SUR model              |
 | [gibbs_truncated_normal.ipynb](/notebook/gibbs_truncated_normal.ipynb)       | Gibbs sampling for truncated normal dist. |
 | [HMDA.csv](/notebook/HMDA.csv)                                               | Home Mortgage Disclosure Act data         |
 | [Housing.csv](/notebook/Housing.csv)                                         | sales prices of houses                    |
@@ -181,6 +182,7 @@ Then click the icon named `JupyterLab`.
 | [speedlimit.ipynb](/notebook/speedlimit.ipynb)                               | effect of speed limits on accidents       |
 | [StrikeDur.csv](/notebook/StrikeDur.csv)                                     | strikes duration data                     |
 | [strikes_duration.ipynb](/notebook/strikes_duration.ipynb)                   | exponential model of strikes duration     |
+| [Grunfeld.csv](/notebook/Grunfeld.csv)                                       | investment data                           |
 | [Traffic.csv](/notebook/Traffic.csv)                                         | speed limit and traffic accident data     |
 | [USStocksSW.csv](/notebook/USStocksSW.csv)                                   | monthly US stock returns data             |
 
