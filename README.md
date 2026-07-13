@@ -175,6 +175,7 @@ Then click the icon named `JupyterLab`.
 | [housing_price.ipynb](/notebook/housing_price.ipynb)                         | hedonic price model of houses             |
 | [Hitter.csv](/notebook/Hitter.csv)                                           | baseball hitters data                     |
 | [markovchain.ipynb](/notebook/markovchain.ipynb)                             | properties of Markov chains               |
+| [mh_ar1.ipynb](/notebook/mh_ar1.ipynb)                                       | Metropolis-Hastings algorithm for AR(1)   |
 | [montecarlo.ipynb](/notebook/montecarlo.ipynb)                               | Monte Carlo method                        |
 | [mortgage_denial.ipynb](/notebook/mortgage_denial.ipynb)                     | logit / probit model of mortgage denial   |
 | [prussian.csv](/notebook/prussian.csv)                                       | Prussian army horse kick data             |
