@@ -23,7 +23,7 @@ Teruo Nakatsuma (Faculty of Economics, Keio University, Japan)
 
 PyMC 6.0 was released in May 2026. It has some breaking changes from previous versions. Please check the [release announcement](https://www.pymc.io/blog/pymc_v6_ecosystem_updates.html) for more information.
 
-Although Anaconda provides the newest version of PyMC, Google Colab still uses PyMC 5.28.5 (the latest version of PyMC 5). In case you need to use Google Colab, use files in `pymc5`.
+Although Anaconda provides the newest version of PyMC, Google Colab still uses PyMC 5.28.5 (the latest version of PyMC 5). In case you need to use Google Colab, use files in [pymc5](/notebook/pymc5/).
 
 ## How to set up Python and necessary packages
 
